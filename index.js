@@ -12,3 +12,7 @@ var project = {
     started: true,
 };
 var 회원 = 123;
+var obj = { a: '123' };
+var 이르음;
+이르음 = 123;
+이르음 = [];
